@@ -4,5 +4,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base: 'nelson.github.io', 
+  base: '/nelson-home/', 
 })
